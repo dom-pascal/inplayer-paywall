@@ -1,0 +1,8 @@
+{
+  "name": "inplayer-paywall",
+  "private": true,
+  "version": "3.0.0",
+  "description": "Forked inplayer.com paywall library",
+  "main": "build/paywall.min.js",
+  "license": "MIT"
+}
