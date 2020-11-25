@@ -1,5 +1,6 @@
-InPlayer Paywall v2
+InPlayer Paywall v3
 =======================
+For of inplayer.com paywall library
 
 [inplayer.com](https://inplayer.com)
 
