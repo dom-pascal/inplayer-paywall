@@ -1,10 +1,11 @@
 {
-  "name": "@dominicpascal/inplayer-paywall",
+  "name": "@dom-pascal/inplayer-paywall",
+  "private": false,
   "version": "3.0.2",
   "description": "Forked inplayer.com paywall library",
   "main": "build/paywall.min.js",
   "publishConfig": {
-    "registry": "https://www.npmjs.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "license": "MIT"
 }
