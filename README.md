@@ -1,6 +1,6 @@
 InPlayer Paywall v3
 =======================
-For of inplayer.com paywall library
+Fork of inplayer.com paywall library to upgrade from 1.0 to 3.0
 
 [inplayer.com](https://inplayer.com)
 
