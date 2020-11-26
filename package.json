@@ -3,7 +3,7 @@
   "private": false,
   "version": "3.0.3",
   "description": "Forked inplayer.com paywall library",
-  "main": "build/paywall.min.js",
+  "main": "dist/paywall.min.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
